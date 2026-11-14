@@ -1,0 +1,676 @@
+{
+  "projects": [
+    {
+      "id": "hospital",
+      "location": [
+        "Bükreş, Romanya",
+        "Bucharest, Romania"
+      ],
+      "area": "93.000 m²",
+      "title": [
+        "Prof. Dr. Dimitrie Gerota Hastanesi",
+        "Prof. Dr. Dimitrie Gerota Hospital"
+      ],
+      "company": "CCN Holding",
+      "description": [
+        "Hastane projesinde ince işler şefliği ve yönetimi.",
+        "Finishing works site chief / management on the hospital project."
+      ],
+      "images": [
+        {
+          "src": "gallery/hospital-1.jpg",
+          "credit": "Prof. Dr. Dimitrie Gerota Hospital / NKY"
+        },
+        {
+          "src": "gallery/hospital-2.jpg",
+          "credit": "Prof. Dr. Dimitrie Gerota Hospital / NKY"
+        }
+      ]
+    },
+    {
+      "id": "stadium",
+      "location": [
+        "Bingazi, Libya",
+        "Benghazi, Libya"
+      ],
+      "area": "50.875 m²",
+      "title": [
+        "Uluslararası Bingazi Stadyumu",
+        "International Benghazi Stadium"
+      ],
+      "company": "LNA İnşaat Ticaret A.Ş.",
+      "description": [
+        "Stadyum projesinde ince işler şefliği ve yönetimi.",
+        "Finishing works site chief / management on the stadium project."
+      ],
+      "images": [
+        {
+          "src": "gallery/stadium-1-v2.jpg",
+          "credit": "Alwasat / Sanad Al-Ahlafi"
+        },
+        {
+          "src": "gallery/stadium-2-v2.jpg",
+          "credit": "Alwasat / Sanad Al-Ahlafi"
+        },
+        {
+          "src": "gallery/stadium-3-v2.jpg",
+          "credit": "Alwasat / Sanad Al-Ahlafi"
+        }
+      ]
+    },
+    {
+      "id": "tashkent",
+      "location": [
+        "Taşkent, Özbekistan",
+        "Tashkent, Uzbekistan"
+      ],
+      "area": "378.000 m²",
+      "title": [
+        "Tashkent City",
+        "Tashkent City"
+      ],
+      "company": "Hyper Partners",
+      "description": [
+        "İç mekân işleri ve saha koordinasyonu.",
+        "Interior works and site coordination."
+      ],
+      "images": [
+        {
+          "src": "gallery/tashkent-1.jpg",
+          "credit": "Öncüoğlu Architecture / Egemen Karakaya"
+        },
+        {
+          "src": "gallery/tashkent-2.jpg",
+          "credit": "Öncüoğlu Architecture / Egemen Karakaya"
+        },
+        {
+          "src": "gallery/tashkent-3.jpg",
+          "credit": "Öncüoğlu Architecture / Egemen Karakaya"
+        },
+        {
+          "src": "gallery/tashkent-extra-1.jpg",
+          "credit": "Öncüoğlu Architecture / Egemen Karakaya"
+        },
+        {
+          "src": "gallery/tashkent-extra-2.jpg",
+          "credit": "Öncüoğlu Architecture / Egemen Karakaya"
+        },
+        {
+          "src": "gallery/tashkent-extra-3.jpg",
+          "credit": "Öncüoğlu Architecture / Egemen Karakaya"
+        }
+      ]
+    },
+    {
+      "id": "airport",
+      "location": [
+        "Aşkabat, Türkmenistan",
+        "Ashgabat, Turkmenistan"
+      ],
+      "area": "2.000.000 m²",
+      "title": [
+        "Aşkabat Uluslararası Havalimanı",
+        "Ashgabat International Airport"
+      ],
+      "company": "Polimeks İnşaat",
+      "description": [
+        "Gelen yolcu katının tüm ince işlerinin yönetimi.",
+        "Management of all finishing works on the arrivals floor."
+      ],
+      "images": [
+        {
+          "src": "gallery/airport-1.jpg",
+          "credit": "Tekeli–Sisa"
+        },
+        {
+          "src": "gallery/airport-2.jpg",
+          "credit": "Tekeli–Sisa"
+        },
+        {
+          "src": "gallery/airport-3.jpg",
+          "credit": "Tekeli–Sisa"
+        },
+        {
+          "src": "gallery/airport-extra-1.jpg",
+          "credit": "Tekeli–Sisa"
+        },
+        {
+          "src": "gallery/airport-extra-2.jpg",
+          "credit": "Tekeli–Sisa"
+        },
+        {
+          "src": "gallery/airport-extra-3.jpg",
+          "credit": "Tekeli–Sisa"
+        }
+      ]
+    },
+    {
+      "id": "bilkent",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "area": "1.200.000 m²",
+      "title": [
+        "Ankara Bilkent Şehir Hastanesi",
+        "Ankara Bilkent City Hospital"
+      ],
+      "company": "CCN Holding",
+      "description": [
+        "İç mekân ve peyzaj işleri ile şantiye koordinasyonu.",
+        "Interior and landscape works and site coordination."
+      ],
+      "images": [
+        {
+          "src": "gallery/bilkent-1.jpg",
+          "credit": "IC İnşaat"
+        },
+        {
+          "src": "gallery/bilkent-2-v2.jpg",
+          "credit": "IC İnşaat"
+        },
+        {
+          "src": "gallery/bilkent-3-v2.jpg",
+          "credit": "IC İnşaat"
+        }
+      ]
+    },
+    {
+      "id": "maidan",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "area": "22.435 m²",
+      "title": [
+        "Maidan İş ve Yaşam Merkezi",
+        "Maidan Business and Lifestyle Center"
+      ],
+      "company": "HAB İnşaat",
+      "description": [
+        "İnce işler şefliği; altyapı, peyzaj ve şantiye koordinasyonu.",
+        "Finishing works site chief; infrastructure, landscape works and site coordination."
+      ],
+      "images": [
+        {
+          "src": "gallery/maidan-1.jpg",
+          "credit": "A Tasarım Mimarlık / Fethi Mağara"
+        },
+        {
+          "src": "gallery/maidan-2.jpg",
+          "credit": "Guardian Glass / Maidan project gallery"
+        },
+        {
+          "src": "gallery/maidan-3.jpg",
+          "credit": "A Tasarım Mimarlık / Fethi Mağara"
+        },
+        {
+          "src": "gallery/maidan-4.jpg",
+          "credit": "A Tasarım Mimarlık / Fethi Mağara"
+        },
+        {
+          "src": "gallery/maidan-5.jpg",
+          "credit": "A Tasarım Mimarlık / Fethi Mağara"
+        },
+        {
+          "src": "gallery/maidan-6.jpg",
+          "credit": "A Tasarım Mimarlık / Fethi Mağara"
+        }
+      ]
+    },
+    {
+      "id": "villas",
+      "location": [
+        "Bakü, Azerbaycan",
+        "Baku, Azerbaijan"
+      ],
+      "area": "60.583 m²",
+      "title": [
+        "Bakü Premium Villalar",
+        "Baku Premium Villas"
+      ],
+      "company": "DIA Holding",
+      "description": [
+        "DIA Holding bünyesinde konut projesinde ince işler şefliği; iç mekân, peyzaj ve saha koordinasyonu.",
+        "Finishing works site chief on the residential project at DIA Holding; interior, landscape and site coordination."
+      ],
+      "images": [
+        {
+          "src": "gallery/villas-1.jpg",
+          "credit": "Mehmet Eğilmezer / proje arşivi"
+        },
+        {
+          "src": "gallery/villas-2.jpg",
+          "credit": "Mehmet Eğilmezer / proje arşivi"
+        },
+        {
+          "src": "gallery/villas-3.jpg",
+          "credit": "Mehmet Eğilmezer / proje arşivi"
+        }
+      ]
+    },
+    {
+      "id": "shahdag",
+      "location": [
+        "Şahdağ, Azerbaycan",
+        "Shahdag, Azerbaijan"
+      ],
+      "area": "70.000 m²",
+      "title": [
+        "Şahdağ Turizm Kompleksi",
+        "Shahdag Tourism Complex"
+      ],
+      "company": "DIA Holding",
+      "description": [
+        "DIA Holding bünyesinde turizm kompleksi projesinde ince işler şefliği; iç mekân, peyzaj ve saha koordinasyonu.",
+        "Finishing works site chief on the tourism complex at DIA Holding; interior, landscape and site coordination."
+      ],
+      "images": [
+        {
+          "src": "gallery/shahdag-2.jpg",
+          "credit": "Mehmet Eğilmezer / proje arşivi"
+        }
+      ]
+    },
+    {
+      "id": "flame",
+      "location": [
+        "Bakü, Azerbaycan",
+        "Baku, Azerbaijan"
+      ],
+      "area": "251.000 m²",
+      "title": [
+        "Bakü Flame Towers",
+        "Baku Flame Towers"
+      ],
+      "company": "DIA Holding",
+      "description": [
+        "DIA Holding bünyesinde yüksek yapı projesinde ince işler şefliği; iç mekân, peyzaj ve saha koordinasyonu.",
+        "Finishing works site chief on the high-rise project at DIA Holding; interior, landscape and site coordination."
+      ],
+      "images": [
+        {
+          "src": "gallery/flame-1.jpg",
+          "credit": "IC İçtaş İnşaat / proje arşivi"
+        },
+        {
+          "src": "gallery/flame-2.jpg",
+          "credit": "IC İçtaş İnşaat / proje arşivi"
+        },
+        {
+          "src": "gallery/flame-3.jpg",
+          "credit": "IC İçtaş İnşaat / proje arşivi"
+        },
+        {
+          "src": "gallery/flame-extra-1.jpg",
+          "credit": "HOK / Farid Khayrulin"
+        },
+        {
+          "src": "gallery/flame-extra-2.jpg",
+          "credit": "HOK / Farid Khayrulin"
+        },
+        {
+          "src": "gallery/flame-extra-3.jpg",
+          "credit": "HOK / Farid Khayrulin"
+        }
+      ]
+    },
+    {
+      "id": "heydar",
+      "location": [
+        "Bakü, Azerbaycan",
+        "Baku, Azerbaijan"
+      ],
+      "area": "101.144 m²",
+      "title": [
+        "Haydar Aliyev Merkezi",
+        "Heydar Aliyev Center"
+      ],
+      "company": "DIA Holding",
+      "description": [
+        "DIA Holding bünyesinde kültür merkezi projesinde ince işler şefliği; iç mekân, peyzaj ve saha koordinasyonu.",
+        "Finishing works site chief on the cultural center project at DIA Holding; interior, landscape and site coordination."
+      ],
+      "images": [
+        {
+          "src": "gallery/heydar-1.jpg",
+          "credit": "IC İçtaş İnşaat / proje arşivi"
+        },
+        {
+          "src": "gallery/heydar-2.jpg",
+          "credit": "IC İçtaş İnşaat / proje arşivi"
+        },
+        {
+          "src": "gallery/heydar-3.jpg",
+          "credit": "IC İçtaş İnşaat / proje arşivi"
+        },
+        {
+          "src": "gallery/heydar-extra-1.jpg",
+          "credit": "IC İçtaş İnşaat"
+        }
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "date": "12.2025–06.2026",
+      "company": "CCN Holding",
+      "location": [
+        "Bükreş, Romanya",
+        "Bucharest, Romania"
+      ],
+      "project": [
+        "Prof. Dr. Dimitrie Gerota Hastanesi",
+        "Prof. Dr. Dimitrie Gerota Hospital"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "Hastane projesinin ince işlerinin yürütülmesi.",
+        "Execution of finishing works for the hospital project."
+      ]
+    },
+    {
+      "date": "06.2023–09.2024",
+      "company": "LNA İnşaat Ticaret A.Ş.",
+      "location": [
+        "Bingazi, Libya",
+        "Benghazi, Libya"
+      ],
+      "project": [
+        "Uluslararası Bingazi Stadyumu",
+        "International Benghazi Stadium"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "Stadyum projesinin ince işlerinin yürütülmesi.",
+        "Execution of finishing works for the stadium project."
+      ]
+    },
+    {
+      "date": "01.2023–04.2023",
+      "company": "Hyper Partners",
+      "location": [
+        "Taşkent, Özbekistan",
+        "Tashkent, Uzbekistan"
+      ],
+      "project": [
+        "Tashkent City",
+        "Tashkent City"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "İç mekân işleri ve saha koordinasyonu.",
+        "Interior works and site coordination."
+      ]
+    },
+    {
+      "date": "05.2021–10.2022",
+      "company": "Fırat İnşaat",
+      "location": [
+        "Taşkent, Özbekistan",
+        "Tashkent, Uzbekistan"
+      ],
+      "project": [
+        "Stella Bağımsızlık Anıtı",
+        "Stella Independence Monument"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "Çelik konstrüksiyon üzeri mermer cephe, döşeme ve peyzaj işleri.",
+        "Marble façade, flooring and landscape works on steel construction."
+      ]
+    },
+    {
+      "date": "03.2019–02.2021",
+      "company": "CYR İnşaat",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "project": [
+        "Özel Öğrenci Yurdu",
+        "Private Student Dormitory"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "Cephe, iç mekân ve peyzaj işleri ile şantiye koordinasyonu.",
+        "Façade, interior and landscape works and site coordination."
+      ]
+    },
+    {
+      "date": "02.2017–11.2018",
+      "company": "HAB İnşaat",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "project": [
+        "Maidan",
+        "Maidan"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "Altyapı ve peyzaj işleri ile şantiye koordinasyonu.",
+        "Infrastructure and landscape works and site coordination."
+      ]
+    },
+    {
+      "date": "02.2016–01.2017",
+      "company": "CCN Holding",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "project": [
+        "Ankara Bilkent Şehir Hastanesi",
+        "Ankara Bilkent City Hospital"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "İç mekân ve peyzaj işleri ile şantiye koordinasyonu.",
+        "Interior and landscape works and site coordination."
+      ]
+    },
+    {
+      "date": "01.2014–02.2016",
+      "company": "Polimeks İnşaat",
+      "location": [
+        "Aşkabat, Türkmenistan",
+        "Ashgabat, Turkmenistan"
+      ],
+      "project": [
+        "Aşkabat Uluslararası Havalimanı",
+        "Ashgabat International Airport"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "Gelen yolcu katının tüm ince işlerinin yönetimi.",
+        "Management of all finishing works on the arrivals floor."
+      ]
+    },
+    {
+      "date": "02.2011–01.2014",
+      "company": "DIA Holding",
+      "location": [
+        "Bakü ve Şahdağ, Azerbaycan",
+        "Baku and Shahdag, Azerbaijan"
+      ],
+      "project": [
+        "Bakü Premium Villalar · Şahdağ Turizm Kompleksi · Flame Towers · Haydar Aliyev Merkezi",
+        "Baku Premium Villas · Shahdag Tourism Complex · Flame Towers · Heydar Aliyev Center"
+      ],
+      "role": [
+        "İnce İşler Şefi / Yöneticisi",
+        "Finishing Works Site Chief / Manager"
+      ],
+      "scope": [
+        "İç mekân ve peyzaj işleri ile şantiye koordinasyonu.",
+        "Interior and landscape works and site coordination."
+      ]
+    },
+    {
+      "date": "02.2011–05.2011",
+      "company": "MOVA Mimarlık ve Mühendislik",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "project": [
+        "AVM, hastane ve ofis yapıları",
+        "Shopping malls, hospitals and office buildings"
+      ],
+      "role": [
+        "Tasarım Ofisi Mimarı",
+        "Design Office Architect"
+      ],
+      "scope": [
+        "Çeşitli yapıların mimari proje ve tasarım çalışmaları.",
+        "Architectural design and project development for various buildings."
+      ]
+    },
+    {
+      "date": "01.2010–02.2011",
+      "company": "Meammar Arabi Construction",
+      "location": [
+        "Bingazi, Libya",
+        "Benghazi, Libya"
+      ],
+      "project": [
+        "2200 Villa Projesi · Villalar ve 1.500 kişilik cami",
+        "2200 Villas Project · Villas and a mosque for 1,500 people"
+      ],
+      "role": [
+        "İnce İşler Şantiye Mimarı",
+        "Finishing Works Site Architect"
+      ],
+      "scope": [
+        "Tek ve çift katlı villalar ile caminin ince işleri.",
+        "Finishing works for single- and double-storey villas and a mosque."
+      ]
+    },
+    {
+      "date": "09.2007–11.2009",
+      "company": "Uyum İnşaat",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "project": [
+        "Çeşitli mimari projeler",
+        "Various architectural projects"
+      ],
+      "role": [
+        "Tasarım Ofisi Mimarı",
+        "Design Office Architect"
+      ],
+      "scope": [
+        "Mimari proje çalışmaları.",
+        "Architectural design and project work."
+      ]
+    },
+    {
+      "date": "10.2006–07.2007",
+      "company": "Elis İnşaat",
+      "location": [
+        "Nevşehir, Türkiye",
+        "Nevşehir, Turkey"
+      ],
+      "project": [
+        "Türk Hamamı",
+        "Turkish Bath"
+      ],
+      "role": [
+        "İnce İşler Şantiye Mimarı",
+        "Finishing Works Site Architect"
+      ],
+      "scope": [
+        "Türk hamamı projesinin ince işlerinin yürütülmesi.",
+        "Execution of finishing works for the Turkish bath project."
+      ]
+    },
+    {
+      "date": "09.2004–06.2006",
+      "company": "Denge Mimarlık ve Mühendislik",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "project": [
+        "Çeşitli mimari projeler",
+        "Various architectural projects"
+      ],
+      "role": [
+        "Tasarım Ofisi Mimarı",
+        "Design Office Architect"
+      ],
+      "scope": [
+        "Mimari proje çalışmaları.",
+        "Architectural design and project work."
+      ]
+    },
+    {
+      "date": "11.2003–04.2004",
+      "company": "Yeninet İnşaat",
+      "location": [
+        "Nevşehir ve Sivas, Türkiye",
+        "Nevşehir and Sivas, Turkey"
+      ],
+      "project": [
+        "UYAP · Cezaevi ve adliye yapıları",
+        "UYAP · Prison and courthouse buildings"
+      ],
+      "role": [
+        "Şantiye Mimarı",
+        "Site Architect"
+      ],
+      "scope": [
+        "Cezaevi ve adliye yapıları için fizibilite ve proje çalışmaları.",
+        "Feasibility and project work for prison and courthouse buildings."
+      ]
+    },
+    {
+      "date": "07.2000–09.2003",
+      "company": "Aydın İnşaat",
+      "location": [
+        "Ankara, Türkiye",
+        "Ankara, Turkey"
+      ],
+      "project": [
+        "Çeşitli mimari projeler",
+        "Various architectural projects"
+      ],
+      "role": [
+        "Tasarım Ofisi Mimarı",
+        "Design Office Architect"
+      ],
+      "scope": [
+        "Mimari proje çalışmaları.",
+        "Architectural design and project work."
+      ]
+    }
+  ]
+}

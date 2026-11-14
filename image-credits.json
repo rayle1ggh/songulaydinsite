@@ -1,0 +1,378 @@
+{
+  "hospital": {
+    "source": "https://dm.mai.gov.ro/gerota/sediu-nou-spital/",
+    "credit": "Prof. Dr. Dimitrie Gerota Hospital / NKY",
+    "urls": [
+      "https://nky.com.tr/wp-content/uploads/2024/02/gerota-hospital-nky-01.jpg",
+      "https://dm.mai.gov.ro/gerota/wp-content/uploads/sites/3/2025/07/01.07.2025-1-scaled.jpg",
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/Prof.-Dr.-Dimitrie-Gerota-Emergency-Military-Hospital-Bucharest.webp"
+    ],
+    "images": [
+      "gallery/hospital-1.jpg",
+      "gallery/hospital-2.jpg",
+      "gallery/hospital-3-v2.jpg"
+    ],
+    "errors": []
+  },
+  "stadium": {
+    "images": [
+      "gallery/stadium-1-v2.jpg",
+      "gallery/stadium-2-v2.jpg",
+      "gallery/stadium-3-v2.jpg"
+    ],
+    "urls": [
+      "https://www.winwin.com/sites/default/files/styles/list_item_large_875x400/public/2025-02/Benghazi%20Stadium.jpg?h=8e7df44a&itok=KIbb6ioz",
+      "https://lana.gov.ly/images/src/353243.jpg",
+      "https://lana.gov.ly/images/src/327301.jpg"
+    ],
+    "credit": "Winwin / LANA"
+  },
+  "airport": {
+    "source": "https://tekelisisa.com/portfolio/ashgabat-international-airport/",
+    "credit": "Tekeli–Sisa",
+    "urls": [
+      "https://tekelisisa.com/wp-content/uploads/askabat02_1440.jpg",
+      "https://tekelisisa.com/wp-content/uploads/askabat06_1440.jpg",
+      "https://tekelisisa.com/wp-content/uploads/askabat07_1440.jpg"
+    ],
+    "images": [
+      "gallery/airport-1.jpg",
+      "gallery/airport-2.jpg",
+      "gallery/airport-3.jpg"
+    ],
+    "errors": [],
+    "additional_images": [
+      {
+        "src": "gallery/airport-extra-1.jpg",
+        "url": "https://tekelisisa.com/wp-content/uploads/askabat03_1440.jpg",
+        "source_page": "https://tekelisisa.com/portfolio/ashgabat-international-airport/",
+        "credit": "Tekeli–Sisa",
+        "dimensions": [
+          2160,
+          1440
+        ]
+      },
+      {
+        "src": "gallery/airport-extra-2.jpg",
+        "url": "https://tekelisisa.com/wp-content/uploads/askabat04_1440.jpg",
+        "source_page": "https://tekelisisa.com/portfolio/ashgabat-international-airport/",
+        "credit": "Tekeli–Sisa",
+        "dimensions": [
+          2160,
+          1440
+        ]
+      },
+      {
+        "src": "gallery/airport-extra-3.jpg",
+        "url": "https://tekelisisa.com/wp-content/uploads/askabat15_1440.jpg",
+        "source_page": "https://tekelisisa.com/portfolio/ashgabat-international-airport/",
+        "credit": "Tekeli–Sisa",
+        "dimensions": [
+          2160,
+          1440
+        ]
+      }
+    ]
+  },
+  "bilkent": {
+    "source": "https://www.ictas.com.tr/en/project/ankara-bilkent-city-hospital/",
+    "credit": "IC İnşaat",
+    "urls": [
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/ankara-bilkent.webp",
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/ankara-bilkent-2.webp",
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/ankara-bilkent-4.webp"
+    ],
+    "images": [
+      "gallery/bilkent-1.jpg",
+      "gallery/bilkent-2-v2.jpg",
+      "gallery/bilkent-3-v2.jpg"
+    ],
+    "errors": []
+  },
+  "tashkent": {
+    "source": "https://oncuoglu.com.tr/projects/tashkent-city-mall-mixed-use-complex",
+    "credit": "Öncüoğlu Architecture / Egemen Karakaya",
+    "urls": [
+      "https://oncuoglu.com.tr/cache/image/xlarge/2026/04/80b0c7c251b4a1dc2b58b4e8f54109fe.jpg",
+      "https://oncuoglu.com.tr/cache/image/xlarge/2026/04/cbaf639e55c1aa6b5e8d9ac8cd2e549e.jpg",
+      "https://oncuoglu.com.tr/cache/image/xlarge/2026/04/d4340855f7124b7bb4cf7c5d29697b43.jpg"
+    ],
+    "images": [
+      "gallery/tashkent-1.jpg",
+      "gallery/tashkent-2.jpg",
+      "gallery/tashkent-3.jpg"
+    ],
+    "errors": [],
+    "additional_images": [
+      {
+        "src": "gallery/tashkent-extra-1.jpg",
+        "url": "https://oncuoglu.com.tr/cache/image/xlarge/2026/04/2f520d217abd74800ad7ba990dad53fc.jpg",
+        "source_page": "https://oncuoglu.com.tr/projects/tashkent-city-mall-mixed-use-complex",
+        "credit": "Öncüoğlu Architecture / Egemen Karakaya",
+        "dimensions": [
+          1920,
+          1440
+        ]
+      },
+      {
+        "src": "gallery/tashkent-extra-2.jpg",
+        "url": "https://oncuoglu.com.tr/cache/image/xlarge/2026/04/8c1d8285da62b528768ce131ec6e00d5.jpg",
+        "source_page": "https://oncuoglu.com.tr/projects/tashkent-city-mall-mixed-use-complex",
+        "credit": "Öncüoğlu Architecture / Egemen Karakaya",
+        "dimensions": [
+          1920,
+          1440
+        ]
+      },
+      {
+        "src": "gallery/tashkent-extra-3.jpg",
+        "url": "https://oncuoglu.com.tr/cache/image/xlarge/2026/04/6769abed8a70989a7c17ec69cee919f7.jpg",
+        "source_page": "https://oncuoglu.com.tr/projects/tashkent-city-mall-mixed-use-complex",
+        "credit": "Öncüoğlu Architecture / Egemen Karakaya",
+        "dimensions": [
+          1920,
+          1440
+        ]
+      }
+    ]
+  },
+  "villas": {
+    "page": "https://www.mehmetegilmezer.com/prestijli-luks-konutlar-projeleri/baku-premium-villalari-baku-azerbeycan",
+    "credit": "Mehmet Eğilmezer / proje arşivi",
+    "urls": [
+      "https://www.mehmetegilmezer.com/Uploads/projeler/baku-premium-villalari-baku-azerbeycan-1.jpg",
+      "https://www.mehmetegilmezer.com/Uploads/projeler/baku-premium-villalari-baku-azerbeycan-2.jpg",
+      "https://www.mehmetegilmezer.com/Uploads/projeler/baku-premium-villalari-baku-azerbeycan-3.jpg"
+    ],
+    "images": [
+      {
+        "src": "gallery/villas-1.jpg",
+        "url": "https://www.mehmetegilmezer.com/Uploads/projeler/baku-premium-villalari-baku-azerbeycan-1.jpg",
+        "source_page": "https://www.mehmetegilmezer.com/prestijli-luks-konutlar-projeleri/baku-premium-villalari-baku-azerbeycan",
+        "credit": "Mehmet Eğilmezer / proje arşivi"
+      },
+      {
+        "src": "gallery/villas-2.jpg",
+        "url": "https://www.mehmetegilmezer.com/Uploads/projeler/baku-premium-villalari-baku-azerbeycan-2.jpg",
+        "source_page": "https://www.mehmetegilmezer.com/prestijli-luks-konutlar-projeleri/baku-premium-villalari-baku-azerbeycan",
+        "credit": "Mehmet Eğilmezer / proje arşivi"
+      },
+      {
+        "src": "gallery/villas-3.jpg",
+        "url": "https://www.mehmetegilmezer.com/Uploads/projeler/baku-premium-villalari-baku-azerbeycan-3.jpg",
+        "source_page": "https://www.mehmetegilmezer.com/prestijli-luks-konutlar-projeleri/baku-premium-villalari-baku-azerbeycan",
+        "credit": "Mehmet Eğilmezer / proje arşivi"
+      }
+    ]
+  },
+  "shahdag": {
+    "page": "https://www.mehmetegilmezer.com/altyapi-projeleri/shahdag-turizm-kompleksi-fazlar-112-11-gusar-azerbaycan",
+    "credit": "Mehmet Eğilmezer / proje arşivi",
+    "urls": [
+      "https://www.mehmetegilmezer.com/Uploads/projeler/shahdag-turizm-kompleksi-fazlar-112-11-gusa.jpg",
+      "https://www.mehmetegilmezer.com/Uploads/projeler/shahdag-turizm-kompleksi-fazlar-112-11-gusa-1.jpg",
+      "https://www.mehmetegilmezer.com/Uploads/projeler/shahdag-turizm-kompleksi-fazlar-112-11-gusa-2.jpg"
+    ],
+    "images": [
+      {
+        "src": "gallery/shahdag-1.jpg",
+        "url": "https://www.mehmetegilmezer.com/Uploads/projeler/shahdag-turizm-kompleksi-fazlar-112-11-gusa.jpg",
+        "source_page": "https://www.mehmetegilmezer.com/altyapi-projeleri/shahdag-turizm-kompleksi-fazlar-112-11-gusar-azerbaycan",
+        "credit": "Mehmet Eğilmezer / proje arşivi"
+      },
+      {
+        "src": "gallery/shahdag-2.jpg",
+        "url": "https://www.mehmetegilmezer.com/Uploads/projeler/shahdag-turizm-kompleksi-fazlar-112-11-gusa-1.jpg",
+        "source_page": "https://www.mehmetegilmezer.com/altyapi-projeleri/shahdag-turizm-kompleksi-fazlar-112-11-gusar-azerbaycan",
+        "credit": "Mehmet Eğilmezer / proje arşivi"
+      },
+      {
+        "src": "gallery/shahdag-3.jpg",
+        "url": "https://www.mehmetegilmezer.com/Uploads/projeler/shahdag-turizm-kompleksi-fazlar-112-11-gusa-2.jpg",
+        "source_page": "https://www.mehmetegilmezer.com/altyapi-projeleri/shahdag-turizm-kompleksi-fazlar-112-11-gusar-azerbaycan",
+        "credit": "Mehmet Eğilmezer / proje arşivi"
+      }
+    ]
+  },
+  "flame": {
+    "page": "https://www.ictas.com.tr/en/project/baku-flame-towers/",
+    "credit": "IC İçtaş İnşaat / proje arşivi",
+    "urls": [
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/baku-flame-tower-1.webp",
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/Baku_Botanical_Garden_19.jpg",
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/Flame_towers_baku.jpg"
+    ],
+    "images": [
+      {
+        "src": "gallery/flame-1.jpg",
+        "url": "https://www.ictas.com.tr/wp-content/uploads/2026/08/baku-flame-tower-1.webp",
+        "source_page": "https://www.ictas.com.tr/en/project/baku-flame-towers/",
+        "credit": "IC İçtaş İnşaat / proje arşivi"
+      },
+      {
+        "src": "gallery/flame-2.jpg",
+        "url": "https://www.ictas.com.tr/wp-content/uploads/2026/08/Baku_Botanical_Garden_19.jpg",
+        "source_page": "https://www.ictas.com.tr/en/project/baku-flame-towers/",
+        "credit": "IC İçtaş İnşaat / proje arşivi"
+      },
+      {
+        "src": "gallery/flame-3.jpg",
+        "url": "https://www.ictas.com.tr/wp-content/uploads/2026/08/Flame_towers_baku.jpg",
+        "source_page": "https://www.ictas.com.tr/en/project/baku-flame-towers/",
+        "credit": "IC İçtaş İnşaat / proje arşivi"
+      }
+    ],
+    "additional_images": [
+      {
+        "src": "gallery/flame-extra-1.jpg",
+        "url": "https://www.hok.com/wp-content/uploads/2019/05/Baku-Flame-Towers-Skyline-01-1270.jpg",
+        "source_page": "https://www.hok.com/projects/view/baku-flame-towers/",
+        "credit": "HOK / Farid Khayrulin",
+        "dimensions": [
+          850,
+          1270
+        ]
+      },
+      {
+        "src": "gallery/flame-extra-2.jpg",
+        "url": "https://www.hok.com/wp-content/uploads/2019/05/Baku-Flame-Towers-Skyline-02-1900-1600x1069.jpg",
+        "source_page": "https://www.hok.com/projects/view/baku-flame-towers/",
+        "credit": "HOK / Farid Khayrulin",
+        "dimensions": [
+          1600,
+          1069
+        ]
+      },
+      {
+        "src": "gallery/flame-extra-3.jpg",
+        "url": "https://www.hok.com/wp-content/uploads/2019/05/Baku-Flame-Towers-Skyline-03-1900-1600x1069.jpg",
+        "source_page": "https://www.hok.com/projects/view/baku-flame-towers/",
+        "credit": "HOK / Farid Khayrulin",
+        "dimensions": [
+          1600,
+          1069
+        ]
+      }
+    ]
+  },
+  "heydar": {
+    "page": "https://www.ictas.com.tr/en/project/heydar-aliyev-cultural-center/",
+    "credit": "IC İçtaş İnşaat / proje arşivi",
+    "urls": [
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/Haydar-Aliyev-Kultur-Merkezi-1.png",
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/05-1.jpg",
+      "https://www.ictas.com.tr/wp-content/uploads/2026/08/01-1.jpg"
+    ],
+    "images": [
+      {
+        "src": "gallery/heydar-1.jpg",
+        "url": "https://www.ictas.com.tr/wp-content/uploads/2026/08/Haydar-Aliyev-Kultur-Merkezi-1.png",
+        "source_page": "https://www.ictas.com.tr/en/project/heydar-aliyev-cultural-center/",
+        "credit": "IC İçtaş İnşaat / proje arşivi"
+      },
+      {
+        "src": "gallery/heydar-2.jpg",
+        "url": "https://www.ictas.com.tr/wp-content/uploads/2026/08/05-1.jpg",
+        "source_page": "https://www.ictas.com.tr/en/project/heydar-aliyev-cultural-center/",
+        "credit": "IC İçtaş İnşaat / proje arşivi"
+      },
+      {
+        "src": "gallery/heydar-3.jpg",
+        "url": "https://www.ictas.com.tr/wp-content/uploads/2026/08/01-1.jpg",
+        "source_page": "https://www.ictas.com.tr/en/project/heydar-aliyev-cultural-center/",
+        "credit": "IC İçtaş İnşaat / proje arşivi"
+      }
+    ],
+    "additional_images": [
+      {
+        "src": "gallery/heydar-extra-1.jpg",
+        "url": "https://www.ictas.com.tr/wp-content/uploads/2026/08/Haydar-Aliyev.jpeg",
+        "source_page": "https://www.ictas.com.tr/en/project/heydar-aliyev-cultural-center/",
+        "credit": "IC İçtaş İnşaat",
+        "dimensions": [
+          1600,
+          1093
+        ]
+      }
+    ]
+  },
+  "maidan": {
+    "title": [
+      "Maidan",
+      "Maidan"
+    ],
+    "location": [
+      "Ankara, Türkiye",
+      "Ankara, Turkey"
+    ],
+    "images": [
+      {
+        "src": "gallery/maidan-1.jpg",
+        "url": "https://atasarim.com/wp-content/uploads/2025/09/Maidan3.jpeg",
+        "source_page": "https://atasarim.com/proje/maidan/",
+        "credit": "A Tasarım Mimarlık / Fethi Mağara",
+        "original_dimensions": [
+          1980,
+          1142
+        ]
+      },
+      {
+        "src": "gallery/maidan-2.jpg",
+        "url": "https://www.guardianglass.com/content/dam/guardianindustriesholdings/project/turkey/GUARDIAN_MAIDAN_IMG_1090.tif/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source_page": "https://www.guardianglass.com/ap/en/projects/project-details/maidan",
+        "credit": "Guardian Glass / Maidan project gallery",
+        "original_dimensions": [
+          1280,
+          854
+        ]
+      },
+      {
+        "src": "gallery/maidan-3.jpg",
+        "url": "https://atasarim.com/wp-content/uploads/2025/09/Maidan6.jpeg",
+        "source_page": "https://atasarim.com/proje/maidan/",
+        "credit": "A Tasarım Mimarlık / Fethi Mağara",
+        "original_dimensions": [
+          1980,
+          1215
+        ]
+      },
+      {
+        "src": "gallery/maidan-4.jpg",
+        "url": "https://atasarim.com/wp-content/uploads/2025/09/Maidan1.jpeg",
+        "source_page": "https://atasarim.com/proje/maidan/",
+        "credit": "A Tasarım Mimarlık / Fethi Mağara",
+        "original_dimensions": [
+          1980,
+          1176
+        ]
+      },
+      {
+        "src": "gallery/maidan-5.jpg",
+        "url": "https://atasarim.com/wp-content/uploads/2025/09/Maidan82.jpeg",
+        "source_page": "https://atasarim.com/proje/maidan/",
+        "credit": "A Tasarım Mimarlık / Fethi Mağara",
+        "original_dimensions": [
+          1980,
+          1320
+        ]
+      },
+      {
+        "src": "gallery/maidan-6.jpg",
+        "url": "https://atasarim.com/wp-content/uploads/2025/09/Maidan84.jpeg",
+        "source_page": "https://atasarim.com/proje/maidan/",
+        "credit": "A Tasarım Mimarlık / Fethi Mağara",
+        "original_dimensions": [
+          1980,
+          1703
+        ]
+      }
+    ],
+    "source": "https://atasarim.com/proje/maidan/",
+    "credit": "A Tasarım Mimarlık / Fethi Mağara",
+    "cv_area": "22.435 m²",
+    "source_total_construction_area": "120.000 m²",
+    "area_note": "Preserve supplied CV figure; architect total differs. Do not silently replace CV area.",
+    "inspection": "6 sharp finished-building photos; no added watermark or overlay text. Some distant natural shop/building signs may exist.",
+    "source_verified": true
+  }
+}
