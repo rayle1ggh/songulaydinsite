@@ -17,7 +17,7 @@ function renderContent(){
  const n=language==='en'?1:0,en=n===1;
  document.getElementById('projectlist').innerHTML=content.projects.map((p,i)=>`<article class="project" id="project-${p.id}">
  <button class="project-cover" data-project="${p.id}" data-image="0" aria-label="${esc(p.title[n])} — ${en?'open image gallery':'görsel galerisini aç'}"><img class="project-image" src="${p.images[0].src}" alt="${esc(p.title[n])}" loading="lazy" width="800" height="450"></button>
- <div class="meta"><span>${String(i+1).padStart(2,'0')} / ${esc(p.location[n])}</span><span>${p.area}</span></div><h3>${esc(p.title[n])}</h3><p>${esc(p.description[n])}</p><footer>${esc(p.company)}</footer>
+ <div class="meta"><span>${String(i+1).padStart(2,'0')} / ${esc(p.location[n])}</span><span>${p.areaLabel ? esc(p.areaLabel[n]) + ' · ' : ''}${esc(p.area)}</span></div><h3>${esc(p.title[n])}</h3><p>${esc(p.description[n])}</p><footer>${esc(p.company)}</footer>
  <details class="gallery-details"><summary>${en?'Project gallery':'Proje görselleri'} (${p.images.length})</summary><div class="gallery-preview">${p.images.map((im,j)=>`<button data-project="${p.id}" data-image="${j}" aria-label="${esc(p.title[n])} — ${en?'image':'görsel'} ${j+1}"><img src="${im.src}" alt="${esc(p.title[n])} — ${j+1}" loading="lazy" width="240" height="160"></button>`).join('')}</div><p class="gallery-note">${en?'Select an image to view it here.':'Büyük görüntülemek için bir görsel seçin.'}</p></details></article>`).join('');
  document.getElementById('jobs').innerHTML=content.jobs.map(j=>`<article class="job"><time>${j.date}</time><div><h3>${esc(j.company)}</h3><div class="job-info"><p class="job-location">${esc(j.location[n])}</p><p class="job-project"><b>${en?'Project':'Proje'}:</b> ${esc(j.project[n])}</p><p class="job-role"><b>${en?'Position':'Pozisyon'}:</b> ${esc(j.role[n])}</p></div></div></article>`).join('');
 }
@@ -76,3 +76,12 @@ document.querySelectorAll('[data-action]').forEach(a=>a.addEventListener('click'
 document.getElementById('action-close').addEventListener('click',()=>actionDialog.close());
 actionDialog.addEventListener('close',()=>{document.body.style.overflow='';actionTrigger?.focus()});
 actionDialog.addEventListener('click',e=>{if(e.target===actionDialog){const r=actionDialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)actionDialog.close()}});
+
+document.querySelectorAll('.section-toggle').forEach(button => {
+ const sectionContent = document.getElementById(button.getAttribute('aria-controls'));
+ button.addEventListener('click', () => {
+  const collapsed = sectionContent.toggleAttribute('data-collapsed');
+  button.setAttribute('aria-expanded', String(!collapsed));
+  if (collapsed) button.scrollIntoView({block: 'nearest'});
+ });
+});

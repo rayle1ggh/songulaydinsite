@@ -107,7 +107,8 @@
         "Aşkabat, Türkmenistan",
         "Ashgabat, Turkmenistan"
       ],
-      "area": "2.000.000 m²",
+      "area": "146.500 m²",
+      "areaLabel": ["Ana terminal", "Main terminal"],
       "title": [
         "Aşkabat Uluslararası Havalimanı",
         "Ashgabat International Airport"
